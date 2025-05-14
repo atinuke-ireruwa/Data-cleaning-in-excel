@@ -1,5 +1,57 @@
+# 🧼 Data Cleaning in Excel(A marketing Campaign data for Pulse380 Advertising)
+
+This repository demonstrates practical techniques for cleaning and preparing raw datasets using Advancedn functions in Microsoft Excel.
+
+## 📌 Overview
+
+Raw data is most times messy, an example of such data is the marketing campain dataset from Pulse360 Advertising. It is rare to get a dataset that’s
+“analysis-ready” right out of the box. This data include missing values, duplicate rows, weird symbols, misaligned columns, inconsistent dates... the
+list goes on. Effective data cleaning is a vital part of the data analytics process and it does takes a lot of time. In this project, 
+I used Excel to clean a messy dataset from Pulse380 Advertising, using tools and formulas commonly used in real-world scenarios.
+
+Disclaimer⚠️: All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or
+individual. All info are dummy and design to demonstrate my capabilities of using Excel to clean data for analysis
+
+## Issues with marketing Campaign data for Pulse380 Advertising
+The Pulse-360 Advertising marketing campaign dataset comprises over 99,000 rows of raw data, capturing a wide range of performance metrics across
+diverse audience segments. However, the dataset presents several challenges, including missing values, inconsistencies, duplicates, and formatting
+issues — all of which can compromise the accuracy of any analysis. If left unaddressed, these issues may lead to misleading insights, flawed decision
+making, and reduced effectiveness in optimizing future campaigns. Therefore, thorough data cleaning and preprocessing are critical steps to ensure
+the dataset is reliable and ready for meaningful analysis.
+
+## Issues with marketing Campaign data for Pulse380 Advertising
+
+* Perform comprehensive data cleaning to prepare the marketing campaign performance dataset for accurate analysis.
+* Identify and resolve missing values, duplicate records, and data inconsistencies.
+* Standardize data formats across all columns to ensure consistency and integrity.
+* Correct errors and harmonize values within categorical fields.
+* Enhance overall data quality to enable reliable, insightful analysis of campaign performance.
+
+### ✅ Key Cleaning Tasks Covered
+
+- Removing duplicates  
+- Handling missing values  
+- Standardizing date formats  
+- Correcting inconsistent text entries  
+- Splitting and combining columns  
+- Using filters and conditional formatting  
+- Applying Excel formulas for cleaning (e.g., `TRIM`, `TEXT`, `IFERROR`, `PROPER`, `VLOOKUP`, `SUBSTITUTE`, etc.)
 
 
+## 🛠️ Tools Used
+
+- Microsoft Excel  
+- Excel Functions: `TRIM`, `CLEAN`, `TEXT`, `IF`, `ISBLANK`, `SUBSTITUTE`, `FIND`, `LEFT`, `RIGHT`, `MID`, `VLOOKUP`, `XLOOKUP`, `IFERROR`  
+- Filters, Conditional Formatting, Flash Fill  
 
 
+## 📫 Get in Touch
+
+Feel free to fork this repo or suggest improvements!
+
+- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 📧 your.email@example.com
+
+
+## 📂 Repository Structure
 
