@@ -1,4 +1,4 @@
-Hi, I am Atinuke Ireruwa
+🙋‍♀️Hi, I am Atinuke Ireruwa
 ------
 A passionate Data Scientist/Data Analyst / Health Informatician / Researcher with a background in Computer Science and a Master’s in Health Informatics. I enjoy working at the intersection of healthcare, data, and technology to drive evidence-based decision-making. I leverage advanced analytics, predictive modeling, natural language processing, machine learning, and data visualization to uncover actionable insights and support data-informed decisions. With a valusble experience in healthcare management and operational efficiency, I develop data solutions that enhance processes, optimize resources, and improve overall performance.
 
