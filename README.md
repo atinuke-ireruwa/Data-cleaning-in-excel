@@ -1,4 +1,4 @@
-# 🧼 Data Cleaning in Excel(A marketing Campaign data for Pulse380 Advertising)
+# Project: Cleaning of Marketing Campaign Dataset for Pulse380 Advertising
 
 This repository demonstrates practical techniques for cleaning and preparing raw datasets using Advancedn functions in Microsoft Excel.
 
@@ -19,7 +19,7 @@ issues — all of which can compromise the accuracy of any analysis. If left una
 making, and reduced effectiveness in optimizing future campaigns. Therefore, thorough data cleaning and preprocessing are critical steps to ensure
 the dataset is reliable and ready for meaningful analysis.
 
-## Issues with marketing Campaign data for Pulse380 Advertising
+## Objectives of the Project
 
 * Perform comprehensive data cleaning to prepare the marketing campaign performance dataset for accurate analysis.
 * Identify and resolve missing values, duplicate records, and data inconsistencies.
@@ -29,20 +29,17 @@ the dataset is reliable and ready for meaningful analysis.
 
 ### ✅ Key Cleaning Tasks Covered
 
-- Removing duplicates  
-- Handling missing values  
-- Standardizing date formats  
-- Correcting inconsistent text entries  
-- Splitting and combining columns  
-- Using filters and conditional formatting  
-- Applying Excel formulas for cleaning (e.g., `TRIM`, `TEXT`, `IFERROR`, `PROPER`, `VLOOKUP`, `SUBSTITUTE`, etc.)
+- Removed duplicates  
+- Handled missing values  
+- Standardized date formats  
+- Correction of inconsistent text entries  
+- Splitted and combined columns where necessary 
+- Used filters and conditional formatting  
+- Applied Excel formulas for cleaning such as `TRIM`, `TEXT`, `IFERROR`, `PROPER`, `VLOOKUP`, `SUBSTITUTE`,`ISBLANK`, `SUBSTITUTE`, `FIND`, `LEFT`,
+RIGHT`, `MID`, `VLOOKUP`, `XLOOKUP`, `IFERROR`  
 
 
-## 🛠️ Tools Used
 
-- Microsoft Excel  
-- Excel Functions: `TRIM`, `CLEAN`, `TEXT`, `IF`, `ISBLANK`, `SUBSTITUTE`, `FIND`, `LEFT`, `RIGHT`, `MID`, `VLOOKUP`, `XLOOKUP`, `IFERROR`  
-- Filters, Conditional Formatting, Flash Fill  
 
 
 ## 📫 Get in Touch
