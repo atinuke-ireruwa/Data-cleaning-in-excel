@@ -1,4 +1,4 @@
-# Project: Cleaning of Marketing Campaign Dataset for Pulse380 Advertising
+# Cleaning of Marketing Campaign Dataset for Pulse380 Advertising
 
 
 ## 📌 Overview
